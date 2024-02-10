@@ -1,2 +1,2 @@
 
-auth_token = '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'
+auth_token = 'nottellinya'
